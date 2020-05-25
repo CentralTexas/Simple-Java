@@ -1,3 +1,3 @@
 # Simple-Java
 Very basic java applications.
-Demonstrate basic object oriented programming.
+The purpose is to demonstrate basic object oriented programming.
